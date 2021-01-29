@@ -3,12 +3,12 @@
         "backend": "1.3.7",
         "mobile": {
             "assistente": {
-                "versao": "3.0.0",
-                "url": "http://local.com/versaoAo100.apk"
+                "versao": "5.0.0",
+                "url": "https://appcenter.ms/users/dev.mobile/apps/OpAssist-Coleta-1/distribute/distribution-groups/AO-Versao-Oficial/overview"
             },
             "navegador": {
-                "versao": "3.0.0",
-                "url": "http://local.com/versaoAo100.apk"
+                "versao": "4.0.0",
+                "url": "https://install.appcenter.ms/users/dev.mobile/apps/navegador-coleta/distribution_groups/versao%202.6.2"
             }
         }
     }
