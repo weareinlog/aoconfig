@@ -7,7 +7,7 @@
                 "url": "https://appcenter.ms/users/dev.mobile/apps/OpAssist-Coleta-1/distribute/distribution-groups/AO-Versao-Oficial/overview"
             },
             "navegador": {
-                "versao": "2.7.0",
+                "versao": "2.7.0-full",
                 "url": "https://install.appcenter.ms/users/dev.mobile/apps/navegador-coleta/distribution_groups/devs"
             }
         }
