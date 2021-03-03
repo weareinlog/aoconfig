@@ -1,15 +1,10 @@
-[
-    {
-        "backend": "1.4.0",
-        "mobile": {
-            "assistente": {
-                "versao": "5.0.0",
-                "url": "https://appcenter.ms/users/dev.mobile/apps/OpAssist-Coleta-1/distribute/distribution-groups/AO-Versao-Oficial/overview"
-            },
-            "navegador": {
-                "versao": "2.7.0-full",
-                "url": "https://install.appcenter.ms/users/dev.mobile/apps/navegador-coleta/distribution_groups/devs"
-            }
-        }
-    }
-]
+{
+  "assistente": {
+    "versaoMinima": 69,
+    "versaoLoja": 69
+  },
+   "navegador": {
+   "versaoMinima": 4030,
+    "versaoLoja": 4030
+  }
+}
