@@ -1,10 +1,10 @@
 {
   "assistente": {
     "versaoMinima": 69,
-    "versaoLoja": 69
+    "versaoLoja": 70
   },
    "navegador": {
    "versaoMinima": 4030,
-    "versaoLoja": 4030
+    "versaoLoja": 4031
   }
 }
